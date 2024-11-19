@@ -1,0 +1,7 @@
+{
+  "doNotPublishApps": true,
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-PTE@main",
+  "type": "PTE",
+  "useCompilerFolder": true,
+  "MicrosoftTelemetryConnectionString": ""
+}
